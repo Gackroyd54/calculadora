@@ -1,0 +1,34 @@
+
+body{background-color: red;}
+h1{text-align: center;
+font-family: 'Times New Roman', Times, serif;}
+.calculadora{background-color: black;
+    color:blanchedalmond;
+    position: absolute;
+    padding:20px; 
+border-radius: 15px;
+top:30%;
+left:40%}
+.botão{
+    height:50px;
+    width:50px;
+    font-size: 25px;
+    cursor:pointer;
+    background-color: #313131;
+    border:none;
+    color:white;
+}
+.botão:hover{
+    background-color: black;
+}
+#resultado{
+    width:205px;
+    height:40px;
+    background-color: rgb(235, 235, 235);
+    text-align: right;
+    color:black;
+    padding:0px;
+    font-size: 30px;
+    font-weight: 500;
+    
+}
